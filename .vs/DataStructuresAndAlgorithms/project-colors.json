@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8f23083-b681-4cd7-8b7b-a29c84ce797f": {
+      "ProjectGuid": "a8f23083-b681-4cd7-8b7b-a29c84ce797f",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 0
+    },
+    "d9e9fa88-2a7f-4b64-909d-986f39ecca29": {
+      "ProjectGuid": "d9e9fa88-2a7f-4b64-909d-986f39ecca29",
+      "DisplayName": "Apps",
+      "ColorIndex": 1
+    },
+    "e0e5b083-7d4d-4e76-a92d-e060e0c012d4": {
+      "ProjectGuid": "e0e5b083-7d4d-4e76-a92d-e060e0c012d4",
+      "DisplayName": "App",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
